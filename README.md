@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **F1-Connecting**
 
-- 👨‍💻 All of my projects are available at [https://raidr-portfolio-raidrdev.vercel.app/](https://raidr-portfolio-raidrdev.vercel.app/)
+- 👨‍💻 All of my projects are available at my [portfolio](raidr-portfolio.netlify.app)
 
 - 💬 Ask me about **Symfony, React, PHP, JS**
 
